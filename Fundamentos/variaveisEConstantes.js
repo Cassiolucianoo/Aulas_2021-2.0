@@ -8,7 +8,7 @@ Esse comportamento é chamado de "hoisting", a variável
 é movida para o inicio da função ou do código global.
 */
 
-var a = 34
+var  a = 34;
 
 /*
 let permite que você declare variáveis limitando 
