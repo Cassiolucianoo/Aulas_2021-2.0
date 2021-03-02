@@ -20,7 +20,9 @@ de uma função, independentemente do escopo de bloco.
 let b = 55
 
 var a = 6767
+var a = 6767
 b = 677
+a = 0
 
 console.log(a,b)
 

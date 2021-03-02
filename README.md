@@ -1,8 +1,7 @@
 #   Cassio luciano da silva Mentor Voluntário de Programação
 
 #  Sobre o treinamento
-*  Domine Web, Javascript, HTML, CSS, jQuery, Bootstrap
-*  Tudo que você precisa para construir aplicações modernas para Web você aprenderá aqui e com aplicações reais.
+*  Javascript, HTML, CSS, jQuery, Bootstrap
 
 ##  Contato
 *   Email: cassiolucianodasilva@gmail.com
@@ -15,7 +14,16 @@
 ## Conteúdo programático
 
 ### 1 - Introdução  -  Javascript: Fundamentos 
-*
+*    Organização
+*    Executando Primeiro codigo
+*    Comentários de Código
+*    O  Var, Let e Const
+*    Tipagem 
+*    Number
+*    Math
+*    function 
+
+
 
 
 
